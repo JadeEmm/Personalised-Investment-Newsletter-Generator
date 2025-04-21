@@ -3,15 +3,13 @@ An intelligent application that generates personalized investment newsletters fo
 
 # AI-Powered Investment Newsletter Generator
 
-#![Investment Newsletter Generator Banner](assets/banner.png)
+![Investment Newsletter Generator Banner](assets/banner.png)
 
-## 📊 Project Overview
+## Project Overview
 
 An intelligent application that generates personalized investment newsletters for financial advisory clients based on their portfolio data, investment goals, and risk profiles. This project demonstrates how generative AI can transform client communications in wealth management by delivering customized, data-rich content at scale.
 
 [➡️ App on Hugging Face Spaces](https://huggingface.co/spaces/Jade-E/personalised-financial-newsletter-generator)
-
-#[![Demo Video](assets/video-thumbnail.png)](https://www.youtube.com/YourVideoLink)
 
 ## Key Features
 
@@ -30,7 +28,7 @@ An intelligent application that generates personalized investment newsletters fo
 - **Base64 Encoding**: Image conversion for HTML embedding
 - **NumPy**: Mathematical operations and data manipulation
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
